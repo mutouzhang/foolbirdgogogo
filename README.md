@@ -27,9 +27,9 @@
 
 所有有出处的引用皆附有相关链接，且获得允许后才进行发布的，但有些资料由于引用过多出处实在难以寻找，若引用到了您的资料侵犯了相关权益，请通过邮箱、CSDN博客或使用git issues与我联系。
 
-个人邮箱 mutouzhanglin@126.com
+##### 个人邮箱 mutouzhanglin@126.com
 
-CSDNblog [http://blog.csdn.net/u012210379](http://blog.csdn.net/u012210379)
+##### CSDNblog [http://blog.csdn.net/u012210379](http://blog.csdn.net/u012210379)
 
 
 
